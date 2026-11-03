@@ -1,2 +1,2 @@
-# Project-SQL-Caso_CancelacionesHoteleras
+# Project-SQL-Caso_CancelacionesHoteleras-RADL
 Se desarrolla proyecto enfocado a la empresa Hotelera DataAndino con el fin de poner en práctica lo aprendido.
