@@ -1,2 +1,2 @@
 # Project-SQL-Caso_CancelacionesHoteleras-RADL
-Se desarrolla proyecto enfocado a la empresa Hotelera DataAndino con el fin de poner en práctica lo aprendido.
+Con el fin de poner en práctica lo aprendido en DataAcademy, se desarolla un proyecto práctico de SQL sobre un dataset de 119,390 reservas de dos hoteles. Incluye creación y modificación de tablas (CREATE, INSERT, UPDATE, DELETE), funciones de texto, fecha y matemáticas, agregaciones, CASE WHEN y JOIN. El objetivo es identificar qué factores se asocian con la cancelación de reservas y estimar su costo para el negocio.
